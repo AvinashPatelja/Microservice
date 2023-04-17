@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Foodies.Services.ProductAPI.props" />
+</Project>
